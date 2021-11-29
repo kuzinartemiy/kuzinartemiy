@@ -13,6 +13,7 @@
 
 - <img width='16' height='16' src='https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png'><img width='16' height='16' src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-256.png'> HTML/CSS
 - <img width='16' height='16' src='https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-128.png'> JavaScript
+- <img width='16' height='16' src='https://cdn-icons-png.flaticon.com/512/919/919832.png'> TypeScript
 - <img width='16' height='16' src='https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png'> ReactJS
 - <img width='16' height='16' src='https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-256.png'> NodeJS(Express)
 
