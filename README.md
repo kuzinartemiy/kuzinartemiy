@@ -1,24 +1,59 @@
-<h1>Привет, я Артемий👋</h1>
-<h3>Веб-разработчик</h3>
-<a href='https://career.habr.com/kuzinartemiy'>Habr.Career</a>
-<br>
-<br>
-
-<h1>Стек</h1>
-
-- <img width='16' height='16' src='https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-256.png'><img width='16' height='16' src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-256.png'> HTML/CSS
-- <img width='16' height='16' src='https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-128.png'> JavaScript
-- <img width='16' height='16' src='https://cdn-icons-png.flaticon.com/512/919/919832.png'> TypeScript
-- <img width='16' height='16' src='https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-512.png'> ReactJS
-- <img width='16' height='16' src='https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-256.png'> NodeJS(Express)
-
-<div>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzinartemiy&layout=compact">
-    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzinartemiy&layout=compact" />
-  </a>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/FnGJfc18tDDHy/giphy.gif" width="250"/>
+  <div id="badges">
+    <a href="https://t.me/kuzinArtemiy">
+      <img src="https://img.shields.io/badge/telegram-0e76a8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/artemiy-kuzin-6b40b518a">
+      <img src="https://img.shields.io/badge/linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://vk.com/kuzin_artemiy">
+      <img src="https://img.shields.io/badge/vk-0077ff?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+    </a>
+    <a href="https://career.habr.com/kuzinartemiy">
+      <img src="https://img.shields.io/badge/habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
+    </a>
+  </div>
+  <h1>
+    Привет! Я Артемий!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
-<!---
-kuzinartemiy/kuzinartemiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### :man_technologist: Обо мне:
+
+Я Frontend-разработчик из г.Екатеринбург.
+
+- 📚 Люблю изучать новое и делиться знаниями.
+- :dark_sunglasses: Заглядываю на темную сторону бэкенда, иду по дороге к Fullstack.
+- 🎮 В свободное время бегаю, играю в видеоигры и читаю Хабр.
+
+### 🛠️ Применяю:
+<div>
+  <img src="https://img.shields.io/badge/react-lightgrey?style=for-the-badge&logo=react&logoColor=blue" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/redux-lightgrey?style=for-the-badge&logo=redux&logoColor=blueviolet" alt="Redux Badge"/>
+  <img src="https://img.shields.io/badge/javascript-lightgrey?style=for-the-badge&logo=javascript&logoColor=e9d54d" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/typescript-lightgrey?style=for-the-badge&logo=typescript&logoColor=007acc" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/nest-lightgrey?style=for-the-badge&logo=nestjs&logoColor=red" alt="Nest Badge"/>
+  <img src="https://img.shields.io/badge/mongodb-lightgrey?style=for-the-badge&logo=mongodb&logoColor=green" alt="MongoDB Badge"/>
+  <img src="https://img.shields.io/badge/postgresql-lightgrey?style=for-the-badge&logo=postgresql&logoColor=blue" alt="PostgreSQL Badge"/>
+</div>
+<br>
+
+### 🌟 Проекты:
+- 💻 [Algososh](https://algososh-blue.vercel.app) - Визуализатор работы алгоритмов и структур данных.
+- 🍔 [Stellar Burgers](https://react-burger-xi.vercel.app) - Онлайн-конструктор космических бургеров.
+
+<details>
+  <summary>🔥 Немного статистики:</summary>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuzinartemiy&theme=dark&border_radius=7)](https://git.io/streak-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuzinartemiy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+
+
+
+
+
