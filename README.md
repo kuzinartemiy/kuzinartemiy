@@ -40,18 +40,6 @@
 </div>
 <br>
 
-### 🌟 Проекты:
-- 💻 [Algososh](https://algososh-blue.vercel.app) - Визуализатор работы алгоритмов и структур данных.
-- 🍔 [Stellar Burgers](https://react-burger-xi.vercel.app) - Онлайн-конструктор космических бургеров.
-
-<details>
-  <summary>🔥 Немного статистики:</summary>
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuzinartemiy&theme=dark&border_radius=7)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuzinartemiy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</details>
-
 
 
 
